@@ -3,7 +3,7 @@ OpenCV-Xcode-Template
 
 A Xcode template for a CLI project using OpenCV on OS X
 
-The prefered method for installing OpenCV is (homebrew)[http://brew.sh]
+The prefered method for installing OpenCV is [homebrew](http://brew.sh)
 Simply `brew install opencv`. You might need to `brew tap homebrew/science` beforehand.
 
 Simply copy the `.xctemplate` into (create any non-existent sub folder)
